@@ -1,0 +1,10 @@
+{
+  "name": "send-token-lambda",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "dependencies": {
+    "ethers": "^6.0.0",
+    "dotenv": "^10.0.0"
+  }
+}
